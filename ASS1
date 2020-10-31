@@ -1,8 +1,7 @@
 
 #omi.txt
 
-#Mango Apple Gauva Papaya Mango Banana Pear Kiwi Strawbery Grapes Apple Apple
-#Banana Mango Gauva pear 
+#Mango Apple Gauva Papaya Mango Banana Pear Kiwi Strawbery Grapes Apple Apple Banana Mango Gauva pear 
 
 
 #Source Code
@@ -29,6 +28,6 @@ Enter File name to open :-omi.txt
 
  Occurance of word in a file :-  3
 
- Number of words in a file :-  12
+ Number of words in a file :-  16
 
 
