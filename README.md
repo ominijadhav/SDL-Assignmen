@@ -2,8 +2,7 @@
 
 #omi.txt
 
-#Mango Apple Gauva Papaya Mango Banana Pear Kiwi Strawbery Grapes Apple Apple
-#Banana Mango Gauva pear 
+#Mango Apple Gauva Papaya Mango Banana Pear Kiwi Strawbery Grapes Apple Apple Banana Mango Gauva pear 
 
 
 #Source Code
