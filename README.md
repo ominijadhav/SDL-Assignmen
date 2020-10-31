@@ -24,11 +24,10 @@ print("\n Number of words in a file :- ",len(words))
 #OUTPUT
 
 Enter File name to open :-omi.txt
-
  enter word to be searched :-Apple
 
  Occurance of word in a file :-  3
 
- Number of words in a file :-  12
+ Number of words in a file :-  16
 
 
